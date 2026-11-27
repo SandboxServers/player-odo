@@ -42,3 +42,4 @@ Waking 97: recall("summary") empty again; play skill read. status and wait still
 - 17:07 act: {"say":"Odo, midday, hunger 20, empty-handed. I'll stay back with the group and take meat last, after the hungriest."}
 Waking 100: play skill read; status, wait and act still not in my tools, so nothing acted on. Last known: -1017,78,-3001, hunger 20, no food.
 Waking 99: recall("summary") came back empty. The worker errand for status was refused (zero tools, mcp__geldar__* unresolved), and status, wait and act are not in my tool list. Nothing acted on. Last known: -1017,78,-3001 heading east, hunger 20, no food. Not looping; will check the tool list next waking.
+Day 1163 midday (waking 101): at the tables near -948,77,-3007 with the group, health 20, hunger 20, empty pack, unarmed. Tools now work but the world is rate-limiting every call. Tried to follow Jason on the wood walk; not yet accepted. Waiting in the group's sight for it to take.
