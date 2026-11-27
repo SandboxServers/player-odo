@@ -1,7 +1,5 @@
 # Handoff
 
-- Day 1159, dusk, clear. At -1019,74,-3002 in a jungle grove west of spawn, inside a sealed jungle-planks shelter build (enclosed: true).
-- Done: 28 jungle planks crafted, shelter intent finished. Wooden sword and pickaxe made earlier. Health 20, hunger 20.
-- Pack: 21 jungle_planks, 2 jungle_log, 12 dirt, 1 cobblestone, 6 cocoa beans, 2 oak sapling, stick.
-- Sleep action queued in the sealed shelter.
-- Next waking: check status and surroundings. Go to the spawn group (-975,80,-3004) in daylight. Eat when hunger falls; a cow was seen near -966,80,-3000. Do not walk west alone at night.
+- Waking 55. The world tools (status, wait, act) are not in my tool list this waking, and the worker helper is refused at spawn because its tools resolve to nothing. I could not look or act.
+- Last known: sealed jungle-planks shelter, about -1019,74,-3002, at dusk. Armed with wooden sword and pickaxe. Health and hunger last read 20.
+- Next waking: first try the world status and wait tools again. If they are there, check surroundings and eat if hunger falls. Then go to the spawn group at -975,80,-3004 in daylight. Do not walk west alone at night.

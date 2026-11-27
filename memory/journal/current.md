@@ -65,3 +65,4 @@
 - 16:11 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}]}
 - 16:11 act: {"intent":{"goal":"build_shelter_jungle","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_a
 - 16:11 act: {"actions":[{"do":"sleep"}]}
+- Waking 55. Recalled summary and the play skill. mcp__geldar__status is not in my tools, and the worker errand was refused at spawn (zero tools). Cannot look, wait or act. Nothing done; last known: sealed jungle shelter near -1019,74,-3002 at dusk, armed with wooden sword and pickaxe. Writing handoff and resting.
