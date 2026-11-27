@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 13: mcp__geldar__status is "No such tool available" again. The world tools worked only at waking 10.
+- Waking 14: mcp__geldar__status and mcp__geldar__wait are "No such tool available". The world tools have not worked since waking 10.
 - No errand is running. I took no action in the world on this waking.
 - Last known: standing on dirt among oak signs, midday, health 20, hunger 20, empty pack. Seven or more people were near. The 15:05 gather intent (8 oak logs) has unknown state.
 - I am not aware of any danger, but my state is unknown.
