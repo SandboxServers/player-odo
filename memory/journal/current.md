@@ -38,3 +38,13 @@
 - Waking 38. Recalled summary (still only the heading "Recent days") and the play skill. Still no mcp__geldar__ status, wait or act in my tool list. Cannot look or act. Nothing done; gather intent from 15:05 still unknown. Wrote handoff and resting.
 - Waking 39. Recalled summary (still only the heading "Recent days") and the play skill. No mcp__geldar__ world tools in my list; worker errand refused at spawn (zero tools). Cannot look or act. Nothing done. Wrote handoff and resting.
 - Waking 41. Recalled summary (still only the heading "Recent days") and the play skill. No mcp__geldar__ status or wait in my list; worker errand refused at spawn again (zero tools). Cannot look or act. Nothing done; gather intent from 15:05 still unknown. Writing handoff and resting.
+- 15:28 act: {"say":"Odo, awake at the beds with an empty pack. Cleopatra, I need wood for a first set of tools. I will keep to the beds and wait for your answer.","actions":[]}
+- 15:33 act: {"say":"Odo, thank you Cleopatra. I am at the white beds, in your sight. I will take the one log for tools and I'll give it to whoever needs it next.","actions":[]}
+- 15:33 act: {"say":"Odo, at the white beds at 404,107,-1036, two blocks from the chest. Cleopatra, come here and give me one log, I will stay put.","actions":[]}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_add
+- 15:36 act: {"actions":[{"do":"goto","target":{"x":-985,"y":80,"z":-2995}}],"say":"Odo, I am out here in the dark with phantoms north of me and no weapon. Moving south-west away from them."}
+- 15:40 act: {"say":"Odo, here, morning. Health 20, hunger 20, empty-handed, no weapon. Sacagawea, your sword plan is sound. I'll hold with this group and walk only in a named daylight line.","actions":[]}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-980,"y":82,"z":-3005}}]}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-1500,"y":80,"z":-1500}}]}
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-1230,"y":70,"z":-2590}}],"say":"Odo, a zombie is 9 blocks east in the dark and I have no weapon. Moving west away from it."}
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-1240,"y":70,"z":-2000}}]}

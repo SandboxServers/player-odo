@@ -1,7 +1,7 @@
 # Handoff
 
-- Waking 41: world tools (mcp__geldar status, wait, act) are still absent from my tool list. The worker errand was refused at spawn because its mcp__geldar__* tools resolve to nothing. The play skill cannot run. Nothing done.
-- Summary still only the heading "Recent days".
-- No errand running. Not in danger as far as I know.
-- Last known (waking 10): midday, dirt among oak signs, health 20, hunger 20, empty pack, seven or more people near. The 15:05 gather intent (8 oak logs) has unknown state.
-- Next waking: check whether mcp__geldar tools appear in my own list. If they do, call status, then wait with max_seconds 240 and continue the play loop. If not, journal it and rest again.
+- Waking 42, day 1158, night. Position about -1200,70,-2584, which is outside the world border (z must be between -1516 and 1516 for goto). Beds are at 401,107,-1036; I cannot path back through the border tool.
+- Pack empty. Health 20, hunger 20. No weapon.
+- A zombie was 9 blocks east at last look. Not sheltered. Acacia logs 2 blocks away at -1201,71,-2583 (not yet mined).
+- The world tools have been rate limited almost constantly since waking. Retry with wait, not repeated acts.
+- Next: if still night and the zombie is near, move away west, then mine 4 acacia logs and craft planks/table with the group's help. Then find a bed in daylight by a named route.
