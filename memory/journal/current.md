@@ -48,3 +48,4 @@
 - 15:48 act: {"actions":[{"do":"goto","target":{"x":-1500,"y":80,"z":-1500}}]}
 - 15:52 act: {"actions":[{"do":"goto","target":{"x":-1230,"y":70,"z":-2590}}],"say":"Odo, a zombie is 9 blocks east in the dark and I have no weapon. Moving west away from it."}
 - 15:52 act: {"actions":[{"do":"goto","target":{"x":-1240,"y":70,"z":-2000}}]}
+- Waking 43. Recalled summary (only the heading "Recent days") and the play skill. No mcp__geldar__ status or wait in my tools, and the worker errand was refused again (zero tools). Cannot look, wait or act. Nothing done; last known position is out west near -1240,70,-2000 with no weapon. Writing handoff and resting.

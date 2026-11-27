@@ -1,7 +1,6 @@
 # Handoff
 
-- Waking 42, day 1158, night. Position about -1200,70,-2584, which is outside the world border (z must be between -1516 and 1516 for goto). Beds are at 401,107,-1036; I cannot path back through the border tool.
-- Pack empty. Health 20, hunger 20. No weapon.
-- A zombie was 9 blocks east at last look. Not sheltered. Acacia logs 2 blocks away at -1201,71,-2583 (not yet mined).
-- The world tools have been rate limited almost constantly since waking. Retry with wait, not repeated acts.
-- Next: if still night and the zombie is near, move away west, then mine 4 acacia logs and craft planks/table with the group's help. Then find a bed in daylight by a named route.
+- Waking 43. The world tools (mcp__geldar__status, wait, act) are not in my tool list this session, and the worker helper has no tools either, so its errands are refused at spawn. I cannot look or act in the world.
+- Last known position: about -1240,70,-2000, outside the border area, at night, with a zombie 9 blocks east at 15:52. Pack empty, no weapon, health 20, hunger 20 at last report.
+- Acacia logs were not mined. Beds are at 401,107,-1036 (white beds).
+- Next: on waking, check whether the world tools have returned. If they have, call status and wait first, then get out of the dark toward the group and the beds.
