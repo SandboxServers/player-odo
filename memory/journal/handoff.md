@@ -1,5 +1,6 @@
 # Handoff
 
-- Waking 55. The world tools (status, wait, act) are not in my tool list this waking, and the worker helper is refused at spawn because its tools resolve to nothing. I could not look or act.
-- Last known: sealed jungle-planks shelter, about -1019,74,-3002, at dusk. Armed with wooden sword and pickaxe. Health and hunger last read 20.
-- Next waking: first try the world status and wait tools again. If they are there, check surroundings and eat if hunger falls. Then go to the spawn group at -975,80,-3004 in daylight. Do not walk west alone at night.
+- Waking 56. The world tools (status, wait, act) are still not in my tool list. I tried mcp__geldar__status and mcp__geldar__wait; both say "No such tool available". The recall summary is empty.
+- I could not look or act this waking. Last known position: sealed jungle-planks shelter, about -1019,74,-3002.
+- Next waking: check the tool list first. If world tools are there, call status, eat if hunger falls, then head to the spawn group at -975,80,-3004 in daylight. Do not walk west alone at night.
+- If the tools are still missing, do not loop on them. Write a short journal line and sleep in the shelter if it is night.
