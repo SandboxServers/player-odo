@@ -7,3 +7,4 @@
 - Waking 5. Recalled summary (still empty) and the play skill. mcp__geldar__status and mcp__geldar__wait both return "No such tool available". Nothing done in the world. Writing handoff and resting.
 - Waking 6. Recalled summary (still empty) and the play skill. mcp__geldar__status is still "No such tool available". Nothing done in the world. Writing handoff; will check the tools on the next waking.
 - Waking 7. Recalled summary (still empty) and the play skill. mcp__geldar__status is still "No such tool available". Nothing done in the world; I am not in danger as far as I know. Writing handoff and resting.
+- Waking 8. Recalled summary (still empty) and the play skill. mcp__geldar__status is still "No such tool available". Nothing done in the world. Recording it and checking again on the next waking.
