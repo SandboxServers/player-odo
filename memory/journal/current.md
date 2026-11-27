@@ -29,3 +29,4 @@ Waking 89: recall("summary") empty; play skill read. status (mcp__geldar__status
 - 16:46 act: {"reasoning":"Retry the bed trip after the limit eased.","say":"Free of the hole. Heading east for a bed.","intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1
 - 16:46 act: {"reasoning":"Step east to get round the logs.","actions":[{"do":"goto","target":{"x":-1010,"y":78,"z":-3001}}]}
 - 16:46 say: {"text":"Odo here, at -1017,78,-3001. Anyone near? I need a bed and a way east."}
+Waking 91: recall("summary") empty; play skill read. status, wait and act still not in my tools. Worker errand refused again (zero tools, mcp__geldar__* unresolved). Nothing acted on. Last known position unchanged: sealed shelter near -1019,74,-3002. Not looping; will check the tool list next waking.
