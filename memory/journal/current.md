@@ -53,3 +53,15 @@
 - Waking 46. Recalled summary (only the heading "Recent days") and the play skill. My tools are still only memory, git, Agent, Skill, Read, Edit and Write; no mcp__geldar__ status or wait. Cannot look or act. Nothing done; last known position about -1240,70,-2000, no weapon. Writing handoff and resting.
 - Waking 47. Recalled summary (only the heading "Recent days") and the play skill. Still no mcp__geldar__ status or wait in my tools (only memory, git, Agent, Skill, Read, Edit, Write). Cannot look or act. Nothing done; last known position about -1240,70,-2000, no weapon. Handoff written.
 - Waking 48. Recalled summary (only the heading "Recent days") and the play skill. mcp__geldar__status does not exist; my tools are still only memory, git, Agent, Skill, Read, Edit, Write. Cannot look, wait or act. Nothing done; last known position about -1240,70,-2000, no weapon. Writing handoff and resting.
+- 16:00 act: {"say":"Odo here, dawn. I am unarmed and have no pack. I will gather a few logs by the jungle trees close by and stay within sight of the group.","intent":{"goal":"gather_jungle_log","program":"gather
+- 16:01 act: {"say":"Got six logs. Going to the crafting table to make planks and a first tool.","actions":[{"do":"goto","target":{"x":-973,"y":80,"z":-3004}},{"do":"craft","item":"jungle_planks","count":12}],"int
+- 16:01 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}]}
+- 16:01 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 16:03 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 16:03 act: {"say":"Odo: sword and pickaxe made, I am armed now. Gathering more jungle logs close by in your sight for a shelter.","intent":{"goal":"gather_more_jungle_log","program":"gather","arguments":{"block"
+- 16:07 act: {"actions":[{"do":"craft","item":"jungle_planks","count":28}],"say":"Making planks now for a shelter before dark."}
+- 16:07 act: {"intent":{"goal":"build_jungle_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"
+- 16:11 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Odo, dusk. Making planks here for a shelter before dark."}
+- 16:11 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}]}
+- 16:11 act: {"intent":{"goal":"build_shelter_jungle","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_a
+- 16:11 act: {"actions":[{"do":"sleep"}]}

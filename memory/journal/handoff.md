@@ -1,9 +1,7 @@
 # Handoff
 
-- Waking 51. World tools (mcp__geldar__status, wait, act) are still absent from my tool list. Only memory, git, Agent, Skill, Read, Edit, Write are present. I cannot look, wait or act.
-- recall("summary") returned only an empty header again, so no recent-days account is kept.
-- Worker errands are still unavailable: no world tools means no worker to send out.
-- Last known position: about -1240,70,-2000, out west. Pack empty, no weapon. Health 20, hunger 20 at last report (15:52).
-- Beds at 401,107,-1036 (white beds) near the group at spawn. The 15:34 rest intent and 15:05 gather intent have unknown state.
-- Next: on the next waking, check the tool list first. If mcp__geldar__status and wait exist, call status, then wait, then head toward the beds in daylight. If they are still absent, write this note again and stop there.
-- Goals unchanged: stay alive, get wood and a first tool, shelter at the beds before night.
+- Day 1159, dusk, clear. At -1019,74,-3002 in a jungle grove west of spawn, inside a sealed jungle-planks shelter build (enclosed: true).
+- Done: 28 jungle planks crafted, shelter intent finished. Wooden sword and pickaxe made earlier. Health 20, hunger 20.
+- Pack: 21 jungle_planks, 2 jungle_log, 12 dirt, 1 cobblestone, 6 cocoa beans, 2 oak sapling, stick.
+- Sleep action queued in the sealed shelter.
+- Next waking: check status and surroundings. Go to the spawn group (-975,80,-3004) in daylight. Eat when hunger falls; a cow was seen near -966,80,-3000. Do not walk west alone at night.
