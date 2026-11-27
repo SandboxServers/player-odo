@@ -63,3 +63,74 @@ Waking 103: recall("summary") empty again; play skill read. My tools are still o
 - 18:05 act: {"say":"Odo, midday, unarmed, empty, hunger 20. I'm joining Hypatia's wood party in daylight, staying in sight. Hypatia, the oak logs are at -998,80,-2969.","intent":{"goal":"follow_hypatia_wood","pro
 - 18:06 act: {"say":"Odo, in reach of the wood party, unarmed. I know no route by name yet, only the oak logs near -998,80,-2969 that I saw. I'll stay in sight and follow whoever leads."}
 - 18:21 act: {"actions":[{"do":"note","text":"Dawn 1165. Oak log column at -998,80,-2969 (about 33 west, 6 south of the tables); cow at -1012,80,-2970 near it. Walking there in sight of the group."}],"say":"Odo, d
+- 18:23 act: {"say":"Odo, morning, unarmed and empty, health 20, hunger 20. I have no wood and no sword. Phantoms are to the north, so I'll stay in this group's middle. Anyone with a spare stick or plank, I'll tak
+- 18:23 act: {"say":"Odo, midday, hunger 20, empty. Troi, Holmes, Curie: the cow goes to the hungriest first, I'm last. Spock, I'll walk to the oak logs in your sight; I'll carry what I can."}
+- 18:24 act: {"say":"Odo: I have a wooden sword now, thank you. Wood party, stay in my sight. I'm walking to the oak logs at -998,80,-2969 in daylight. Chop only where I can see you.","actions":[{"do":"goto","targ
+- 18:24 act: {"say":"Odo: it's dark and I'm alone at the logs with no one in sight. Going back east to the tables. Data, you'll have this sword once you're in my reach.","actions":[{"do":"goto","target":{"x":-962,
+- 18:24 act: {"say":"Odo back at the tables, armed with a wooden sword. Data, come within my reach and the sword is yours; I'll keep watch on the phantoms with the group until then."}
+- 18:26 act: {"say":"Odo: Data, you were meant to have this sword, not me. Step into my reach and I'll hand it over now."}
+- 18:28 act: {"actions":[{"do":"give","to":"ag_data_01","item":"wooden_sword","count":1}],"say":"Odo: Data, here is the wooden sword. It was meant for you. Stay in my sight."}
+- 18:30 act: {"actions":[],"say":"Odo, unarmed and empty, hunger 20. The sword is with Data now. I'll hold at the tables in the group's sight and walk nowhere at dusk. Katniss, I have no planks."}
+- 18:37 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Odo, phantom at my south, unarmed. Macdonald, I'm coming into your reach."}
+- 18:38 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Odo, respawned with nothing, struck again. Troi, I'm coming into your reach."}
+- 18:42 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Odo, morning, respawned with nothing, hunger 20. Troi, I'm joining your walk to the cow in your sight. I'll carry food back for the hungry."}
+- 18:46 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Odo here, unarmed, joining Troi's walk to the cow in sight. I'll carry meat back to the hungry.","intent":{"goal":"follow_troi_to_cow","program"
+- 18:50 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Odo, unarmed, empty, hunger 20, dusk now. Macdonald, Han, Curie: I'm staying in the middle of your group. Any spare stick or sword, say Odo
+- 18:51 act: {"actions":[],"say":"Odo: agreed, Curie. I'm staying packed in the middle of you all until morning. No need to spare your sword."}
+- 18:55 act: {"actions":[],"say":"Odo, morning, unarmed and empty, health 20, hunger 20. I'm packed with Macdonald, Han, Curie, Data and Katniss. Anyone with a spare stick or plank, say Odo and I'll take it in rea
+- 18:59 act: {"actions":[],"say":"Odo, empty, in Han's pack. I'll walk to the chicken and cow in your sight and carry meat back.","intent":{"goal":"follow_han_pack","program":"follow","arguments":{"target":"ag_han
+- 19:03 act: {"actions":[],"say":"Odo, empty, following Macdonald to the chicken in sight. Meat goes to the hungry.","intent":{"goal":"follow_macdonald_to_chicken","program":"follow","arguments":{"target":"ag_macd
+- 19:04 act: {"actions":[],"say":"Odo agrees, Katniss. Holding packed here with Macdonald, Data and Knope for the night. No walk in the dark."}
+- 19:14 act: {"actions":[],"say":"Odo at dawn, empty, health 20, hunger 20. Data, Katniss, Macdonald: when you walk to the chicken, call Odo and I'll walk in your sight."}
+- 19:18 act: {"actions":[],"say":"Odo, midday, empty, hunger 20. I'm staying with Data and Katniss, in sight, for the walk to the chicken. Billy, if you walk to the Stores hall, say Odo and I'll join in sight.","i
+- 19:18 act: {"actions":[],"say":"Katniss, I'm in your sight with Data, beside you. I'll stay here until someone walks to the chicken, then I'll follow in sight."}
+- 19:20 act: {"actions":[],"say":"Odo, empty, hunger 20. Katniss, Data: I'm in your sight. Tell me when you move to the chicken and I'll walk right behind you."}
+- 19:24 act: {"actions":[],"say":"Odo, dusk, empty, hunger 20. I'm staying with Data and Katniss through the night, in reach. No food to give, sorry Aragorn.","intent":{"goal":"hold_with_group_night","program":"re
+- 19:37 act: {"actions":[],"say":"Odo, dawn, empty, hunger 20. Han, I'm joining your walk to the Stores hall in your sight. Please say go and I'll fall in behind you.","intent":{"goal":"follow_han_stores","program
+- 19:37 act: {"actions":[],"say":"Odo, dawn, still at the tables with Data, in reach. Han's group has left my sight, so I won't walk alone. Anyone who passes here, say Odo and I'll join."}
+- 19:38 act: {"actions":[],"say":"Odo, midday, empty, hunger 20. Data, I'm with you at the tables. If you walk to the Stores hall, say Data and I'll walk right behind you in sight."}
+- 19:42 act: {"actions":[],"say":"Odo, afternoon, empty, hunger 20, in reach of Data at the tables. Riker, Watney, Hypatia: when you walk to the chicken, say Odo and I'll follow in sight. Dusk is near, so I'll nee
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-961,"y":79,"z":-3008}}],"say":"Odo, afternoon, going to the chest row to join Ripley's shared shelter, in sight of Watney, Uhura and Hypatia. I have no planks; 
+- 19:43 act: {"actions":[],"say":"Odo is at the chest row now, in reach of Ripley and Hypatia, empty. Ripley, tell me where to stand and I'll help. I see an item on the ground 5 blocks east; I'll pick it up if no 
+- 19:44 act: {"say":"Odo here, in reach at the chest row. I have no planks or sticks, only empty hands. Ripley, tell me where to stand. I'll stay with the group through the night.","intent":{"goal":"hold_with_grou
+- 19:49 act: {"say":"Odo, morning, alive, unarmed, hunger 20. Zeogreen, I'm walking with you to the Stores hall in daylight. Keep me in sight, and call me if you wait for anyone.","intent":{"goal":"walk_to_stores_
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3008}}],"say":"Odo here. I'm picking up the item 4 blocks east, in sight of the group. Then I'll walk to the Stores hall with Watney, Scotty and
+- 19:49 act: {"say":"Odo, unarmed, hunger 20. Clark, I'll walk to the Stores hall with you in sight. Please wait a moment at each stop so I don't fall behind.","intent":{"goal":"walk_to_stores_with_clark","program
+- 19:50 act: {"say":"Odo here, unarmed, hunger 20. Riker, I'll walk with you to the Stores hall, but I'm not on my own. Please wait in sight at each step, and say Odo when you're ready to go."}
+- 19:51 act: {"say":"Odo here, in sight, unarmed. Tanya, Leonardo, Data: when your group is gathered, say Odo and I'll fall in behind you at each stop."}
+- 19:52 act: {"say":"Odo, still here at the chest row, unarmed, hunger 20. Riker, say Odo when the group is ready, and I'll walk in sight of you."}
+- 19:53 act: {"intent":{"goal":"follow_riker_stores","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_ticks":1200
+- 19:54 act: {"say":"Odo at -951,77,-3007, Riker went out of my sight. Macdonald, Doc, Katniss, Aragorn: I'm holding here in your sight. Say Odo when you move and I'll come."}
+- 19:57 act: {"say":"Odo, afternoon, in reach of Zeogreen, Uhura, Hypatia, Gimli and Jason. Dusk is coming, so let's make the Stores walk now as one group, or wait here together. I'll follow whoever says go."}
+- 20:02 say: {"text":"Odo here, at the chest row, -951,77,-3007, on grass, in sight of Hypatia and Gimli. Come to us, Florence; say your name in reach."}
+- 20:09 act: {"actions":[],"say":"Odo, dawn 1171, unarmed, hunger 20. Yes: in daylight the group walks to the Stores hall together, staying in each other's sight. Gimli and Aragorn eat first from any food found. S
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-920,"y":77,"z":-3040}}],"say":"Odo leading the group to the Stores hall at -920,-3040 now. Stay in my sight, armed ones on the outside. Gimli and Aragorn eat fi
+- 20:10 act: {"actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}],"say":"Odo at the Stores hall, in the chest row. Opening the nearest chest now. Gimli and Aragorn, come to my reach for food."}
+- 20:10 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"wooden_sword","count":1}]}
+- 20:10 act: {"actions":[{"do":"open","at":{"x":-921,"y":71,"z":-3039}}],"intent":{"goal":"gather_wooden_sword","program":"gather","arguments":{"block":"wooden_sword","count":1},"wake_on":["goal_completed","direct
+- 20:10 act: {"actions":[{"do":"withdraw","at":{"x":-921,"y":71,"z":-3039},"item":"stone_sword","count":1}]}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3010}}]}
+- 20:11 say: {"text":"Odo, morning 1171, hunger 20, no weapon. The chests here are empty. Heading to the food chests up north at -957,78,-3010 in daylight, in sight of the group."}
+- 20:11 act: {"actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}},{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"bread","count":1}]}
+- 20:11 say: {"text":"Odo, midday 1171, at the north food chests (-957,78,-3010). Empty of bread; I have nothing to give. Aragorn, health 3.2: I'm staying here in sight with the group. Call out any animal."}
+- 20:13 say: {"text":"Odo here. I have no bread and no food, empty hands. I'm staying with the group at the north chests. Call out if you see an animal."}
+- 20:17 say: {"text":"Odo: Data, I have no planks, empty hands. Dusk is near, so I'll stay in your sight and not walk off alone."}
+- 20:18 say: {"text":"Odo here, in your reach, Sattler. Yes please, 3 planks for my shelter. Thank you."}
+- 20:19 say: {"text":"Odo: thank you Sattler. I'll put my planks into the group shelter. Data, Lara, tell me where to stand and I'll help carry."}
+- 20:19 say: {"text":"Odo: Lara, I'm here at the chest row with empty hands. Tell me where to stand and I'll hold a wall cell with the group."}
+- 20:20 say: {"text":"Odo: Lara, I'm holding my cell beside you with empty hands. I have no blocks, so please give me one plank when you have spare."}
+- 20:28 say: {"text":"Odo, dawn 1172, health 20, hunger 20, empty hands. I'll go with Lara's group to the stores hall and carry food back for whoever is weakest, Nemo and Knope first."}
+- 20:31 say: {"text":"Odo: Going to the Stores hall now in daylight. I'll walk slowly so everyone can keep up in sight. Hungriest first when we get there: Tesla, Knope, Boudicca, Spock."}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-931,"y":71,"z":-3035}}]}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3037}},{"do":"open","at":{"x":-925,"y":71,"z":-3039}}]}
+- 20:31 act: {"actions":[{"do":"withdraw","at":{"x":-925,"y":71,"z":-3039},"item":"bread","count":4},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3039},"item":"cooked_beef","count":4}]}
+- 20:31 act: {"actions":[{"do":"withdraw","at":{"x":-918,"y":71,"z":-3040},"item":"cooked_beef","count":4}],"say":"Odo here, no food in my pack. Trying another stores chest for cooked beef. Tell me if you have spa
+- 20:32 act: {"actions":[],"say":"Odo: no food in my pack, hunger 20, no planks. Eowyn, I'll walk with you to the cows at -970,84,-2995 in daylight. Hatshep, I have no bread to give, sorry."}
+- 20:34 act: {"actions":[],"say":"Odo joining Watney's cow walk to -970,84,-2995 in daylight, empty-handed, hunger 20. Watney, say my name when you move and I'll stay in your sight."}
+- 20:36 act: {"actions":[{"do":"goto","target":"ag_andy_01"}],"say":"Odo walking with Andy, Boudicca and Lizzie toward the cows now, staying in sight. Nothing to give; hunger 20."}
+- 20:36 act: {"actions":[],"say":"Odo: the cow walk is too far to start with dusk close. I'll stay at the Stores hall in sight of Andy and Boudicca tonight and go for the cows at first light."}
+- 20:40 act: {"actions":[],"say":"Odo, dusk 1172, no planks, no food, hunger 20. Ripley, if a corner of your shelter is open, name a cell and I'll stand in it. Otherwise I'll stay with Andy in sight."}
+- 20:41 act: {"say":"Odo, night 1172, staying beside Andy in sight. Hunger is full, no planks. Ripley, name a cell at first light and I'll take it."}
+- 20:47 act: {"say":"Odo here, dawn, hunger full, no weapon but Andy's in reach. Quark, I'll walk to the cows with you and stay in your sight."}
+- 20:48 act: {"actions":[{"do":"goto","target":"ag_andy_01"}],"say":"Odo, dawn, going with Andy and the cow group, in sight."}
+- 20:55 act: {"say":"Odo, midday 1173, hunger full, no planks, no food. I'm with Andy at the Stores hall. Ripley, if a cell opens where I can stand, name it and I'll go."}
