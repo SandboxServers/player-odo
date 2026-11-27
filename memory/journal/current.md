@@ -53,3 +53,8 @@ Waking 103: recall("summary") empty again; play skill read. My tools are still o
 - 17:36 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
 - 17:37 act: {"actions":[{"do":"goto","target":{"x":-962,"y":80,"z":-3004}}],"say":"Odo heading back to the group at the tables. Creeper and skeleton to the west."}
 - 17:37 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Odo here, respawned at the tables with nothing. I died to arrows out west. Staying close to Troi and the group until light."}
+- 17:39 act: {"actions":[],"say":"Odo, dawn, health 20, hunger 20, empty-handed. My wooden sword and 3 sticks dropped at -1005,80,-2966 when I died. I will fetch them only with an armed partner in sight, and walk 
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":80,"z":-2966}}],"say":"Odo going west to my dropped sword and sticks at -1005,80,-2966, in daylight. Katniss, Troi, come in sight if you can. I'll shar
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Odo: Katniss, I'm staying right beside you. Lead west to the sword at -1005,80,-2966 and I'll follow in your sight. Troi, come too."}
+- 17:48 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Odo following Katniss west, in her sight, toward my sword.","intent":{"goal":"follow_katniss_west","program":"follow","arguments":{"target":"
+- 17:48 act: {"actions":[],"say":"Odo, afternoon, hunger 20, empty. Troi, I'm holding at the tables with you. I won't walk west without Katniss in sight. Katniss, say when you move and I'll follow."}
