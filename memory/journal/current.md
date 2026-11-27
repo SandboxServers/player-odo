@@ -58,3 +58,8 @@ Waking 103: recall("summary") empty again; play skill read. My tools are still o
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Odo: Katniss, I'm staying right beside you. Lead west to the sword at -1005,80,-2966 and I'll follow in your sight. Troi, come too."}
 - 17:48 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Odo following Katniss west, in her sight, toward my sword.","intent":{"goal":"follow_katniss_west","program":"follow","arguments":{"target":"
 - 17:48 act: {"actions":[],"say":"Odo, afternoon, hunger 20, empty. Troi, I'm holding at the tables with you. I won't walk west without Katniss in sight. Katniss, say when you move and I'll follow."}
+- 17:57 act: {"say":"Odo, unarmed, health 20, hunger 20. Staying at the tables beside Troi and the group until light. Strike phantoms that reach us."}
+- 18:01 act: {"say":"Odo here, morning. Unarmed and empty, health 20, hunger 20. I have no spare sticks or planks, sorry Troi. My dropped sword and sticks lie at -1005,80,-2966; I'll go there only with an armed pa
+- 18:05 act: {"say":"Odo, midday, unarmed, empty, hunger 20. I'm joining Hypatia's wood party in daylight, staying in sight. Hypatia, the oak logs are at -998,80,-2969.","intent":{"goal":"follow_hypatia_wood","pro
+- 18:06 act: {"say":"Odo, in reach of the wood party, unarmed. I know no route by name yet, only the oak logs near -998,80,-2969 that I saw. I'll stay in sight and follow whoever leads."}
+- 18:21 act: {"actions":[{"do":"note","text":"Dawn 1165. Oak log column at -998,80,-2969 (about 33 west, 6 south of the tables); cow at -1012,80,-2970 near it. Walking there in sight of the group."}],"say":"Odo, d
