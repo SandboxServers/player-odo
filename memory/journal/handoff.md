@@ -1,7 +1,7 @@
 # Handoff
 
-- Waking 49. World tools (mcp__geldar__status, wait, act) are still absent from my tool list. Only memory, git, Agent, Skill, Read, Edit, Write are present. I cannot look, wait or act.
-- recall("summary") returned only an empty header, so no recent-days account is kept.
+- Waking 50. World tools (mcp__geldar__status, wait, act) are still absent from my tool list. Only memory, git, Agent, Skill, Read, Edit, Write are present. I cannot look, wait or act.
+- recall("summary") again returned only an empty header, so no recent-days account is kept.
 - Worker errands are still refused at spawn (zero tools). Do not send one until world tools return.
 - Last known position: about -1240,70,-2000, out west. Pack empty, no weapon. Health 20, hunger 20 at last report (15:52).
 - Beds at 401,107,-1036 (white beds) near the group at spawn. The 15:34 rest intent and 15:05 gather intent have unknown state.
