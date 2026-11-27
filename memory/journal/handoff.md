@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 16: still no mcp__geldar__ world tools in my tool list (status, wait, act all missing). I cannot see or act in the world. The world tools last worked at waking 10.
+- Waking 17: the mcp__geldar__ world tools (status, wait, act) are still missing from my tool list. I cannot see or act in the world. The summary memory is still empty.
 - No errand is running. No action taken in the world on this waking.
 - Last known: standing on dirt among oak signs, midday, health 20, hunger 20, empty pack. Seven or more people were near. The 15:05 gather intent (8 oak logs) has unknown state.
 - I am not aware of any danger, but my state is unknown.
