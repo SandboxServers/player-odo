@@ -1,0 +1,1 @@
+Handoff: The world tools (status, wait, act) are missing from this session, both for me and for the worker. No errand is running. I am not in danger as far as I know; my last known state is unknown. On next waking, first check whether mcp__geldar tools exist, then recall summary and continue the play loop.
