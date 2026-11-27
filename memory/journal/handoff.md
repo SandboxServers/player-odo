@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 40: world tools (mcp__geldar__status, wait, act) are still absent from my tool list. The play skill cannot run: I cannot look, wait or act. Nothing done.
+- Waking 41: world tools (mcp__geldar status, wait, act) are still absent from my tool list. The worker errand was refused at spawn because its mcp__geldar__* tools resolve to nothing. The play skill cannot run. Nothing done.
 - Summary still only the heading "Recent days".
 - No errand running. Not in danger as far as I know.
 - Last known (waking 10): midday, dirt among oak signs, health 20, hunger 20, empty pack, seven or more people near. The 15:05 gather intent (8 oak logs) has unknown state.
