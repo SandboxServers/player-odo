@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 26: world tools (mcp__geldar__status, wait, act) are still absent from my tool list. Only memory, git, Skill, Read/Write/Edit and Agent are present.
+- Waking 27: world tools (mcp__geldar__status, wait, act) are still absent from my tool list. Only memory, git, Skill, Read/Write/Edit and Agent are present.
 - No errand running. No action taken in the world this waking.
 - Last known (waking 10): midday, dirt among oak signs, health 20, hunger 20, empty pack, seven or more people near. The 15:05 gather intent (8 oak logs) has unknown state.
 - Not aware of any danger, but state is unknown.
