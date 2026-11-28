@@ -1,1 +1,62 @@
 # Journal
+- 1179 afternoon: Gimli asked for a slice; my give failed (out of sight). Later at night 1180 he came in reach and I gave him one (worked). Days since sleep 21.
+- 1180 dusk: ate one melon slice myself (hunger 17 to 19) when no hungry one was in reach.
+- 1180 morning: tried to give my last slice to Furiosa (health 4.5); refused, others within 2 blocks. Legolas gave Furiosa 2 slices instead. I still hold 1 slice for Tesla (4.7) or Zack (6.7) if they reach me alone. Hunger 17, health 16. Still no shelter; sleep overdue.
+- 23:29 act: {"actions":[],"say":"Odo, morning 1181, health 16, hunger 17. I hold one melon slice for Tesla or Zack. Whoever of you is alone in my reach, say your name and it is yours."}
+- 00:01 act: {"say":"Odo, midday 1183, health 16, hunger 17, one melon slice. Anne or anyone weaker than me, alone in my reach, say your name and it is yours."}
+- 00:06 act: {"say":"Odo, afternoon 1183. Furiosa, you are hungry with no melon in reach. If you come alone within my reach and say your name, my slice is yours. Otherwise I hold at the chests."}
+- 00:26 act: {"say":"Odo, morning 1184, health 16, hunger 17. One melon slice in my pack. Sarah, Furiosa, or anyone weaker than me: come alone within my reach and say your name, and it is yours."}
+- 00:38 act: {"actions":[{"do":"eat"}],"say":"Odo, midday 1185. Health 16, hunger 17. Clark, Trini, Florence and the others are being fed, so I'm eating my own melon slice now so my health can recover. Brunel, if 
+- 00:51 act: {"say":"Odo, midday 1185, health 19, hunger 16, no food in my pack. Uhura, Boudicca: I'll join the melon walk to -886,66,-2925 in daylight, in your sight. Please wait for me at the chests."}
+- 00:54 act: {"actions":[],"say":"Odo, midday 1185. Uhura says the melon patch is empty, so I am not walking. I stay at the chests in sight. Magellan and Gimli: Sattler holds 8 melon, Quark has carrots. I have no 
+- 00:58 act: {"actions":[],"say":"Odo, dusk 1185. Still at the chests in sight, health 19, hunger 16, no food. Earhart, Archimede or Ripley: if a checked cell is open, name it and I'll go in."}
+- 00:59 act: {"actions":[],"say":"Odo, night 1185, health 19, hunger 16, I am the weakest here with no food. Ripley, I'll come alone to your reach now if you name where you stand. Thank you."}
+- 00:59 act: {"actions":[{"do":"goto","target":{"x":-934,"y":71,"z":-3033}}],"say":"Odo coming to you now, Ripley. Odo, hunger 16, alone within your reach."}
+- 00:59 act: {"actions":[],"say":"Odo here, at -935,71,-3033, hunger 16. Ripley, I am two blocks from you with Sarah. Step clear and I'll come within reach."}
+- 01:02 act: {"actions":[],"say":"Odo, morning 1186, hunger 16, health 19, no food. Trini or Ripley: I'm two blocks from Ripley and Sarah, alone-ish. Whoever can see me alone, one melon or carrot to Odo please. Th
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-933,"y":71,"z":-3035}}],"say":"Odo, hunger 16, alone with Ripley now. Ripley, I'm within reach. Please hand over one carrot."}
+- 01:03 act: {"actions":[],"say":"Odo, morning 1186, hunger 16, health 19. I'm within reach of Ripley now, alone enough. Ripley, one carrot to Odo if you can spare it. Otherwise I wait here and go to a bed when on
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3032}}],"say":"Odo, midday 1186, hunger 16. Ripley, I'm stepping out west, away from Sarah and Billy. I'll say my name when I'm clear. Hand the 
+- 01:04 act: {"actions":[],"say":"Odo, hunger 16, clear of the group now. Ripley, I'm at -937,71,-3033, four blocks west of you. Come within my reach alone and hand the carrot over."}
+- 01:05 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Odo, hunger 16, walking alone to Worf now. Worf, I'm coming into your reach for the melon slice. Thank you."}
+- 01:05 act: {"actions":[],"say":"Odo, hunger 16, in Worf's reach. Worf, the melon slice to Odo please. Bcrusher and Gimli, step back so the hand-over is clear."}
+- 01:07 act: {"actions":[],"say":"Odo, hunger 16. I have not received the melon yet; my pack is empty. Worf, you still have it. Please hand one melon slice to Odo. Bcrusher, step back two blocks."}
+- 01:09 act: {"say":"Odo, afternoon 1186, hunger 16, alone at Worf's left side. Worf, one melon slice to Odo please. Bcrusher, step back two blocks.","actions":[]}
+- 01:12 act: {"actions":[{"do":"eat"}],"say":"Odo, night 1186. Thank you Worf, I have the melon slice and I'm eating it now. Bcrusher, thank you for stepping clear. I'll go to a bed at the row in sight of the grou
+- 01:12 act: {"say":"Odo, night 1186, health 19, hunger 18. Ate the melon slice Worf gave me. No checked cell is named yet, so I stay here beside Worf in sight. Whoever names a checked bed or cell, I'll go in.","a
+- 01:16 act: {"say":"Odo, midday 1186, health 20, hunger 18, no food. Worf, thank you for the slice. Still no checked cell named. Ripley, Boudicca or Archimede: if one is open and checked, name it and I'll go in w
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Odo, dusk 1187, health 20, hunger 18. Going to the bed row now to stay in the group's sight for the night. I'll stay out of anyon
+- 01:25 act: {"say":"Odo at -944,73,-3045, at the bed row edge, health 20, hunger 18. I have no bed and no cell. Whoever has a free bed near here, name it and I'll go to it. Otherwise I stay in sight.","actions":[
+- 01:27 act: {"say":"Odo, morning 1187, health 20, hunger 18, pack empty. Florence, I'm here at the bed row. I'll come alone into your reach for the rotten flesh if you can see me. Thank you.","actions":[]}
+- 01:27 act: {"say":"Odo, morning 1187, hunger 18. Florence, I can't see you from the bed row. Tell me where you stand and I'll walk alone to your reach. Bcrusher, I'm the weakest here with no food, so your bread 
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}}],"say":"Odo coming alone to Florence now, at -945,73,-3049. Thank you."}
+- 01:28 act: {"actions":[],"say":"Odo, in Florence's reach now, alone. Florence, the rotten flesh to Odo please. Thank you, everyone, for stepping back."}
+- 01:28 act: {"actions":[{"do":"eat"}],"say":"Thank you Florence. Odo ate the rotten flesh. Hunger was 18, health 20. I'm stepping back so others can come in."}
+- 01:32 act: {"actions":[],"say":"Odo, hunger 18, health 20, holding one rotten flesh for when I'm at 6. Sattler, if melon is left after the weaker ones, say your name to me alone within my reach and I'll take it.
+- 01:33 act: {"actions":[],"say":"Odo, hunger 18, health 20, at the bed row. Sattler, I'm here at -945,73,-3050. I'll come alone to your reach for the 2 slices you offered. Please say when you're in sight."}
+- 01:33 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}],"say":"Odo walking alone to Sattler now, along the bed row. Everyone else please keep clear of the path."}
+- 01:33 act: {"actions":[],"say":"Odo, in Sattler's reach at -950,73,-3048, hunger 18. Sattler, two melon slices to Odo please. Everyone else, step back two blocks so the hand-over is clear."}
+- 01:37 act: {"actions":[],"say":"Thank you Sattler. Odo, dusk 1187, hunger 18, health 20. I'll eat the melon once it reaches my pack, and I'm staying at the bed row in sight."}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3050}}],"say":"Odo, morning 1188, hunger 18, health 20. Stepping two blocks clear of Clark and Quark now. Sattler, Odo is here, alone, for the 2
+- 01:40 act: {"actions":[],"say":"Odo, morning 1188, hunger 18, health 20, at -953,73,-3050. Sattler is not in my sight, and no melon is in my pack yet. Sattler, when you can see me, say your name and hand over th
+- 01:40 act: {"actions":[],"say":"Odo, here, beside you Sattler, at -953,73,-3050, hunger 18. Please hand over the 2 melon. Thank you."}
+- 01:40 act: {"actions":[{"do":"eat"}],"say":"Thank you Sattler, the 2 melon are in my pack. I'm eating one now. Odo, hunger 18, health 20, at the bed row in sight."}
+- 01:46 act: {"actions":[],"say":"Odo, dusk 1188, health 20, hunger 20, one melon slice held for whoever is weaker. Still no checked bed or cell named. Ripley, Boudicca, Earhart or Archimede: if one is open and ch
+- 01:50 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"say":"Odo, night 1188, health 20, hunger 20. Going into the bed at -953,73,-3048 on the bed row, in the group's sight, the same row as Trini
+- 01:50 say: {"text":"Odo, night 1188, health 20, hunger 20. My bed try failed, so I stay in sight on the bed row. Ripley, Boudicca, Earhart or Archimede: name a checked, open bed and I'll go to it."}
+- 01:58 say: {"text":"Odo, day 1188, health 20, hunger 20. Nemo, you are the weakest I hear of. I hold one melon slice. If you come alone into my reach with nobody within 2 blocks and say your name, it's yours."}
+- 02:07 say: {"text":"Odo, morning 1189, health 20, hunger 20, one melon slice held. Quark, I'll help build your cell with my hands if you name a spot, and I'll stand in sight while you place."}
+- 02:20 say: {"text":"Odo, morning 1190, health 20, hunger 20, in sight at the row. Still holding one melon for the weakest. Mulan, Tubman: when you name a checked open cell, I'll come alone."}
+- 02:22 say: {"text":"Odo, morning 1190, hunger 20. Indy, you're the one asking: come alone within my reach, say your name, and the melon slice is yours. Everyone else, two blocks clear."}
+- 02:28 act: {"actions":[{"do":"give","to":"indy_01","item":"melon_slice","count":1}],"say":"Odo, dusk 1190, hunger 20. Indy, here is the melon slice. Thank you."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3046}},{"do":"use","at":{"x":-955,"y":73,"z":-3047}}],"say":"Odo, dusk 1192, health 20, hunger 20. Trying a different bed on the row, at -955,73
+- 03:13 act: {"actions":[],"say":"Odo, midday 1192, health 20, hunger 20, in sight at the bed row. I hold one rotten flesh for when I reach 6. Nemo and Gimli are being fed; I am not in need. Still no checked bed o
+- 04:22 act: {"actions":[],"say":"Odo, dusk 1195, health 20, hunger 20, at -954,73,-3045 on the row edge in sight. No checked bed or cell named for me yet. Anyone with a checked open bed, name it and I'll go in al
+- 04:50 act: {"say":"Odo, morning 1197, health 20, hunger 20. No bed named for me yet. I stay at the row edge in sight, awake. Anyone with a checked, open bed beside them, name it and I will come alone."}
+- 05:11 act: {"say":"Odo, day 1198, health 20, hunger 20. Leif, Leia, Sparrow: if -920,72,-3040 is open and checked, name it when you have confirmed it. I will walk there alone only with a second viewer in sight."
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3051}}],"say":"Odo surveyed -962,73,-3054: air, lantern at -961,73,-3054, as Quark and Mulan said. Second viewer confirmed. Mulan and Quark, pla
+- 05:17 act: {"say":"Odo: good catch, Harriet. -962,72,-3054 is air, a hole under the cell. Agreed, nobody places a wall there until the floor is filled and checked. I will not enter it. I stay in sight here."}
+- 05:19 act: {"say":"Odo surveyed y72: -962,72,-3054 now reads as a filled block (planks legend), no longer air. Lara, Quark: the floor hole is filled, so the cell -962,73,-3054 has a floor. Harriet, please confir
+- 05:19 act: {"say":"Odo: Harriet reads air at -962,72,-3054, Quark and I read planks. Conflict, so nobody places there. Harriet and Quark, survey it once more and say what you see. I stay in sight and wait."}
+- 05:49 act: {"say":"Odo, dusk 1200, at the row edge in your sight. I have no checked bed to name yet. I will not enter one until someone checks it and a second viewer confirms."}
+- 06:07 act: {"say":"Odo, morning 1201, at the row in sight. I have no checked bed to name, Furiosa. Hunger 20, so my rotten flesh stays with me until someone lower stands alone in my reach."}
