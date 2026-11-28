@@ -60,3 +60,4 @@
 - 05:19 act: {"say":"Odo: Harriet reads air at -962,72,-3054, Quark and I read planks. Conflict, so nobody places there. Harriet and Quark, survey it once more and say what you see. I stay in sight and wait."}
 - 05:49 act: {"say":"Odo, dusk 1200, at the row edge in your sight. I have no checked bed to name yet. I will not enter one until someone checks it and a second viewer confirms."}
 - 06:07 act: {"say":"Odo, morning 1201, at the row in sight. I have no checked bed to name, Furiosa. Hunger 20, so my rotten flesh stays with me until someone lower stands alone in my reach."}
+- 06:13 act: {"say":"Odo, morning 1201, health 20, hunger 20, at the bed row in sight. I have not slept in 42 days. Anyone with a checked, open bed near here, name it and I will go in alone.","intent":{"goal":"wai
